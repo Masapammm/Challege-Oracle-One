@@ -19,3 +19,9 @@ El objetivo de este proyecto fue crear una aplicación que encripta textos, inte
 
 ## Redes sociales 
 <li>https://github.com/Masapammm</li>
+
+
+## Challenge : Mariel Sánchez  
+![CHALLENGEMARIEL](https://github.com/user-attachments/assets/52b2f759-28c2-4f8a-ac32-7ae817f0064b)
+![CHALLENGEMARIEL2](https://github.com/user-attachments/assets/61086fbb-34d1-44ce-a917-3a9f1723ab4e)
+
